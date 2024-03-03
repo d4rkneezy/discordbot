@@ -1,0 +1,259 @@
+{
+  "token": "MTIxMzkwNjk4MzgyOTI1MDEzOA.GC4XJW.t1r6C1WAdpDRVAWBLkq5YECB3xYLDueNJwLPgU",
+  "mongoLink": "",
+  "guild_id": "1014521886140534795",
+  "client_id": "1213906983829250138",
+  "prefix": "!",
+  "message": {
+    "already_verifed": "Juz jestes zweryfikowany",
+    "no_verify": "Wybrales zly przycisk",
+    "succesfully_verifed": "Pomyślnie zweryfikowano",
+    "LIMIT_CLEAR_MESSAGE": "Minimalna wartosc dla komendy do 1 a maksymalna to 99",
+    "SUCCESFULLY_CLEAR": "Pomyslnie usunięto {amount} wiadomosci",
+    "ankieta_koniec": "Ankieta dobiegla konca",
+    "dodano_glos": "Dodano twoj glos",
+    "oddano_juz_glos": "Oddales juz swoj glos",
+    "MAX_CHANNEL_IN_CATEGORY": "Osiągnięto maksymalna liczbe kanalow w danej kategorii",
+    "mute_message": "Pomyślnie wyciszono użytkownika ({osoba}) do {czas} przez {member} z powodem **{powod}**",
+    "kick_info": "Pomyślnie wyrzucono użytkownika ({osoba}) przez {member} z powodem **{powod}**",
+    "ban_info": "Pomyślnie zbanowano użytkownika ({osoba}) **PERMANETNIE** przez {member} z powodem **{powod}**"
+  },
+  "channels": {
+    "boost": "1014521886639673388",
+    "newMember": "1014521886178291770",
+    "suggest": "1213910345077497896",
+    "all_members": {
+      "id": "1078711704260726806",
+      "name": "Uzytkownikow: {count}"
+    },
+    "members_role": {
+      "id": "1066117801955295252",
+      "name": "Uzytkownikow: {count}"
+    },
+    "LOGS": "1014521888401272934",
+    "LOGS_TICKET": "1014521888401272936"
+  },
+  "embeds": {
+    "boost": {
+      "title": "Nowy Booster",
+      "description": "{member} zboostował nasz serwer, serduszka dla niego",
+      "color": "#5865f2",
+      "image": "https://xyz.pl"
+    },
+    "newMember": {
+      "title": "**Nowy uzytkownik!**",
+      "description": "Hej **{member}**, baw sie dobrze na serwerze\n**DARKCODE**. Milego dnia!",
+      "color": "#5865f2",
+      "image": "https://xyz.pl",
+      "footer": "dc.darkneez.pl"
+    },
+    "verify": {
+      "title": "**Weryfikacja**",
+      "description": "Kliknij przycisk ponizej, aby\nuzyskac dostep do reszty kanalow!",
+      "color": "#61eb34",
+      "image": "https://xyz.pl"
+    },
+    "wiadomosc": {
+      "title": "wiadomosc",
+      "description": "pozdro",
+      "color": "#5865f2",
+      "image": "https://xyz.pl"
+    },
+    "sklep": {
+      "title": "Cennik",
+      "description": "Kliknij wybrany przycisk aby zobaczyć cennik\n",
+      "color": "#5865f2",
+      "image": "http://xyz.pl/"
+    },
+    "SUGGEST": {
+      "TITLE": "**Nowa opinia**",
+      "COLOR": "#5865f2"
+    },
+    "sklep-user": {
+      "title": "Bot discord - cennik",
+      "description": "pozdro",
+      "color": "#5865f2",
+      "image": "http://xyz.pl/"
+    },
+    "sklep2-user": {
+      "title": "Serwer discord - cennik",
+      "description": "pozdro",
+      "color": "#5865f2",
+      "image": "http://xyz.pl/"
+    },
+    "awans": {
+      "title": "Awans!",
+      "description": "Administrator **{member}** awansowal **{user}** na **{rola}** za **{reason}**! #GZ",
+      "color": "#5865f2",
+      "image": "https://media.tenor.com/U310qstr-qwAAAAC/handshake-vladimir-putin.gif"
+    },
+    "awansLogs": {
+      "title": "LOGI: Awans",
+      "description": "Administrator **{member}** awansowal **{user}** na **{rola}** za **{reason}**! #GZ",
+      "color": "#5865f2",
+      "image": "http://xyz.pl/"
+    },
+    "degrad": {
+      "title": "Degrad!",
+      "description": "Administrator **{member}** degradowal **{user}** z **{rola}** za **{reason}**",
+      "color": "#5865f2",
+      "image": "https://media.tenor.com/U310qstr-qwAAAAC/handshake-vladimir-putin.gif"
+    },
+    "degradLogs": {
+      "title": "LOGI: Degrad",
+      "description": "Administrator **{member}** degradowal **{user}** na **{rola}** za **{reason}**",
+      "color": "#5865f2",
+      "image": "http://xyz.pl/"
+    },
+    "ankieta": {
+      "description": "{czas}  \n {tresc} \n {Odpowiedzowiedz1} \n {Odpowiedzowiedz2}",
+      "color": "#5f225e"
+    },
+    "ticket": {
+      "title": "Centum zgloszen",
+      "description": "Aby stworzyc ticket nalezy kliknac przycisk ponizej\nZapamietaj, ze mozesz miec otwarte tylko jedno zgloszenie\n\nTworzenie pustych zgloszen bedzie karane!",
+      "color": "#933bf7",
+      "image": "https://xyz.pl",
+      "footer": "dc.darkcode.pl",
+      "thumbnail": "https://cdn.discordapp.com/attachments/748446758442631319/1213914096169255022/5cc6e044-d076-4e67-9f13-4bda6e53e39e.jpg?ex=65f73499&is=65e4bf99&hm=7a644dd34b41871d07d5176dd85d069976dfa2fcc9bf57f903dc663a930fb04c&"
+    },
+    "ticket_embed_1": {
+      "title": "Dziekujemy za stworzenie ticketa",
+      "description": "ㅤㅤㅤ \n **Informacje o użytkowniku** ㅤㅤㅤ \n \n Uzytkownik: {member}\nID: **{memberId}**\n Konto Stworzone: {stworzono}\n Dołączył: {dolaczyl}\n\n**Informacje o zgloszeniu**\n Kategoria: {category}\n Ticket stworzono: {ticketStworzono}",
+      "color": "#5865f2"
+    },
+    "ticket_embed_2": {
+      "title": "Dziekujemy za stworzenie ticketa",
+      "description": "ㅤㅤㅤ \n **Informacje o użytkowniku** ㅤㅤㅤ \n \n Uzytkownik: {member}\nID: **{memberId}**\n Konto Stworzone: {stworzono}\n Dołączył: {dolaczyl}\n\n**Informacje o zgloszeniu**\n Kategoria: {category}\n Ticket stworzono: {ticketStworzono}",
+      "color": "#5865f2"
+    },
+    "ticket_embed_3": {
+      "title": "Dziekujemy za stworzenie ticketa",
+      "description": "ㅤㅤㅤ \n **Informacje o użytkowniku** ㅤㅤㅤ \n \n Uzytkownik: {member}\nID: **{memberId}**\n Konto Stworzone: {stworzono}\n Dołączył: {dolaczyl}\n\n**Informacje o zgloszeniu**\n Kategoria: {category}\n Ticket stworzono: {ticketStworzono}",
+      "color": "#5865f2"
+    },
+    "mute_info": {
+      "description": "Zostales wyciszony przez {member} za {powod} do {czas}",
+      "color": "#5865f2"
+    }
+  },
+  "role": {
+    "embed_role": "1014584425272573967",
+    "verify": "1014521886140534800",
+    "SAY_ROLE": "1014584425272573967",
+    "ACCESS_BAN_ROLE": "1014584425272573967",
+    "ACCESS_CLEAR_ROLE": "1014584425272573967",
+    "ACCESS_KICK_ROLE": "1014584425272573967",
+    "ACCESS_MUTE_ROLE": "1014584425272573967",
+    "stats_role": "1014584425272573967",
+    "awans_role": "1014584425272573967",
+    "remove_role": "1014584425272573967",
+    "TICKET_ROLE": "1014584425272573967",
+    "TICKET_1_ACCESS_ROLE": "1014584425272573967",
+    "TICKET_2_ACCESS_ROLE": "1014584425272573967",
+    "TICKET_3_ACCESS_ROLE": "1014584425272573967",
+    "TICKET_4_ACCESS_ROLE": "1014584425272573967",
+    "TICKET_5_ACCESS_ROLE": "1014584425272573967"
+  },
+  "buttons": {
+    "verify": {
+      "style": 3,
+      "label": "Kliknij, aby sie zweryfikować "
+    },
+
+    "sklep1": {
+      "style": 3,
+      "label": "#1"
+    },
+    "sklep2": {
+      "style": 3,
+      "label": "#2"
+    },
+    "ankieta1": {
+      "style": 3
+    },
+    "ankieta2": {
+      "style": 3
+    }
+  },
+  "emoji": {
+    "TAK": "<:tak:1213913049711378503>",
+    "NIE": "<:nie:1213913233887600641>"
+  },
+  "modals": {
+    "ticket": {
+      "placeholder": "Wybierz kategorie ticketa",
+      "1": "Zakup paczki",
+      "2": "Wspolpraca",
+      "3": "Inne"
+    },
+    "ticket_gui": {
+      "1": {
+        "title": "Zakup paczki",
+        "placeholder_1": "TAK/NIE",
+        "label_1": "Jestes pewny ze chcesz zakupic paczke?",
+        "placeholder_2": "Blik, psc, paypal, skiny do cs2",
+        "label_2": "Jaką metodą płatności płacisz?"
+      },
+      "2": {
+        "title": "Wspolpraca",
+        "placeholder_1": "Odpowiedz",
+        "label_1": "Na czym miala by polegac wspolpraca",
+        "placeholder_2": "Odpowiedz",
+        "label_2": "Co masz do zaoferowania",
+        "placeholder_3": "Odpowiedz",
+        "label_3": "Co ja mialbym zrobic",
+        "placeholder_4": "Odpowiedz",
+        "label_4": "Podaj swojego discorda",
+        "placeholder_5": "Odpowiedz",
+        "label_5": "Podaj link do swojego discorda"
+      },
+      "3": {
+        "title": "Inne",
+        "placeholder_1": "Odpowiedz",
+        "label_1": "Opisz tutaj swoj problem",
+        "placeholder_2": "Odpowiedz",
+        "label_2": "Opisz tutaj swoj problem",
+        "placeholder_3": "Odpowiedz",
+        "label_3": "Opisz tutaj swoj problem",
+        "placeholder_4": "Odpowiedz",
+        "label_4": "Opisz tutaj swoj problem",
+        "placeholder_5": "Odpowiedz",
+        "label_5": "Opisz tutaj swoj problem"
+      },
+      "4": {
+        "title": "Tytul",
+        "placeholder_1": "Odpowiedz",
+        "label_1": "1",
+        "placeholder_2": "Odpowiedz",
+        "label_2": "2",
+        "placeholder_3": "Odpowiedz",
+        "label_3": "3",
+        "placeholder_4": "Odpowiedz",
+        "label_4": "4",
+        "placeholder_5": "Odpowiedz",
+        "label_5": "5"
+      },
+      "5": {
+        "title": "Tytul",
+        "placeholder_1": "Odpowiedz",
+        "label_1": "1",
+        "placeholder_2": "Odpowiedz",
+        "label_2": "2",
+        "placeholder_3": "Odpowiedz",
+        "label_3": "3",
+        "placeholder_4": "Odpowiedz",
+        "label_4": "4",
+        "placeholder_5": "Odpowiedz",
+        "label_5": "5"
+      }
+    }
+  },
+  "category": {
+    "CHANNEL_TICKET_1": "1014936189813395556",
+    "CHANNEL_TICKET_2": "1014936189813395556",
+    "CHANNEL_TICKET_3": "1014936189813395556",
+    "CHANNEL_TICKET_4": "1014936189813395556",
+    "CHANNEL_TICKET_5": "1199986563426299904"
+  }
+}
